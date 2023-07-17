@@ -1,18 +1,18 @@
 # NLP-Video-Processing
 
-6.1 Viewing the video files
+1. Viewing the video files
 The code in this section produces a data frame that lists all the video files present.
 
-6.2 Transcribing the videos
+2. Transcribing the videos
 The code in this section updates the dataframe with all the transcribed text in the column "transcribed_text". 
 
-6.3 Normalizing the text
+3. Normalizing the text
 The code in this section updates the dataframe with all the normalized text in the column "normalized_text".
 
-6.4 Extracting the Key Phrases and Topics
+4. Extracting the Key Phrases and Topics
 The code in this section updates the dataframe with all the Key phrases and topics of the video in the columns "Key_Phrases" and "Topic" respectively.
 
-6.5 Creating a Dashboard
+5. Creating a Dashboard
 The code in this section
 
 Asks the user to enter the Topic for which they want a video.
