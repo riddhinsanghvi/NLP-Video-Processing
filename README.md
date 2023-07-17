@@ -24,7 +24,8 @@ Asks the user whether they want to view any videos.
 
 If Yes, then ask for the video file name that they want to view
 
-Ask whether the user wants to view another video Dashboard%205.png
+Ask whether the user wants to view another video
+
 If Yes, then play the video
 
 If No, then exit
